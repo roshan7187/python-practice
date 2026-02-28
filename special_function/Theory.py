@@ -23,3 +23,4 @@ print(mapobject) #<map object at 0x000001B2C9F8B430>
 # filter() function constructs an iterator from elements of an iterable for which a function returns true.
 
 
+
